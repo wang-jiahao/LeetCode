@@ -5,3 +5,6 @@
 - [x] Day3: remove value from Linkedlist
 - [x] Day4: [Symmetric Tree](https://leetcode.cn/problems/symmetric-tree/), [Invert Binary Tree](https://leetcode.cn/problems/invert-binary-tree/)
 - [x] Day5: [Binary Tree Paths](https://leetcode.cn/problems/binary-tree-paths/), [Count Complete Tree Nodes](https://leetcode.cn/problems/count-complete-tree-nodes/)
+- [x] Day6:[合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/description/),[二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+- [x] Day7:[移除元素](https://leetcode.cn/problems/remove-element/description/),[前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/description/)
+- [x] Day8:[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/),[有效的字母异位词](https://leetcode.cn/problems/valid-anagram/description/)
