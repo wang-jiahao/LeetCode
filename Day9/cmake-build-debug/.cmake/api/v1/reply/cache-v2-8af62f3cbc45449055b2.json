@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Codes/cpp/LeetCode/Day8/cmake-build-debug"
+			"value" : "d:/Codes/cpp/LeetCode/Day9/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Codes/cpp/LeetCode/Day8/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/Codes/cpp/LeetCode/Day9/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Codes/cpp/LeetCode/Day8"
+			"value" : "D:/Codes/cpp/LeetCode/Day9"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Day8"
+			"value" : "C:/Program Files (x86)/Day9"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Day8"
+			"value" : "Day9"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1270,7 +1270,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Day8_BINARY_DIR",
+			"name" : "Day9_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1279,10 +1279,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Codes/cpp/LeetCode/Day8/cmake-build-debug"
+			"value" : "D:/Codes/cpp/LeetCode/Day9/cmake-build-debug"
 		},
 		{
-			"name" : "Day8_IS_TOP_LEVEL",
+			"name" : "Day9_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1294,7 +1294,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Day8_SOURCE_DIR",
+			"name" : "Day9_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Codes/cpp/LeetCode/Day8"
+			"value" : "D:/Codes/cpp/LeetCode/Day9"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
