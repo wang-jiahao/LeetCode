@@ -11,3 +11,4 @@
 - [x] Day9:[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/),[滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/description/)
 - [x] Day10:[查找共用字符](https://leetcode.cn/problems/find-common-characters/description/),[用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/description/)
 - [x] Day11:[赎金信](https://leetcode.cn/problems/ransom-note/description/),[有效的括号](https://leetcode.cn/problems/valid-parentheses/description/)
+- [x] Day12:[最长回文串](https://leetcode.cn/problems/longest-palindrome/description/),[分发饼干](https://leetcode.cn/problems/assign-cookies/solutions/534281/fen-fa-bing-gan-by-leetcode-solution-50se/)
