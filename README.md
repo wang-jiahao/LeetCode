@@ -16,3 +16,5 @@
 - [x] Day14:[找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/description/), [寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph/description/)
 - [x] Day15:[二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/), [节点与其祖先之间的最大差值](https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/description/)
 - [x] Day16:[把二叉搜索树转换为累加树](https://leetcode.cn/problems/convert-bst-to-greater-tree/description/), [两棵二叉搜索树中的所有元素](https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/description/)
+- [x] Day17:[仅含置位位的最小整数](https://leetcode.cn/problems/smallest-number-with-all-set-bits/), [按身高排序](https://leetcode.cn/problems/sort-the-people/description/)
+- [x] Day18:[判断字符串的两半是否相似](https://leetcode.cn/problems/determine-if-string-halves-are-alike/description/), [找出游戏的获胜者](https://leetcode.cn/problems/find-the-winner-of-the-circular-game/description/)
