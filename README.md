@@ -18,3 +18,4 @@
 - [x] Day16:[把二叉搜索树转换为累加树](https://leetcode.cn/problems/convert-bst-to-greater-tree/description/), [两棵二叉搜索树中的所有元素](https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/description/)
 - [x] Day17:[仅含置位位的最小整数](https://leetcode.cn/problems/smallest-number-with-all-set-bits/), [按身高排序](https://leetcode.cn/problems/sort-the-people/description/)
 - [x] Day18:[判断字符串的两半是否相似](https://leetcode.cn/problems/determine-if-string-halves-are-alike/description/), [找出游戏的获胜者](https://leetcode.cn/problems/find-the-winner-of-the-circular-game/description/)
+- [x] Day19:[划分字母区间](https://leetcode.cn/problems/partition-labels/description/), [找出数组的最大公约数](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/description/)
